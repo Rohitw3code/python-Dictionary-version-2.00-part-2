@@ -1,0 +1,4 @@
+pip install BeautifulSoup
+pip install PyDictionary
+pip install enchant
+pip install requests
